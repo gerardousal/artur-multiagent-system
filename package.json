@@ -1,0 +1,22 @@
+{
+  "name": "artur",
+  "version": "1.0.0",
+  "description": "multiagent system for arduino devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerardousal/artur-multiagent-system.git"
+  },
+  "keywords": [
+    "multiagent-systems"
+  ],
+  "author": "Gerardo Corado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerardousal/artur-multiagent-system/issues"
+  },
+  "homepage": "https://github.com/gerardousal/artur-multiagent-system#readme"
+}
